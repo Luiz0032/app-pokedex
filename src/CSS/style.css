@@ -1,6 +1,5 @@
 body{
     font-family: 'Poppins', sans-serif;
-    Overflow: hidden
 }
 
 main{
@@ -14,5 +13,5 @@ main{
 .pokedex{
     display:  flex;
     gap: 30px;
-    padding: 130px 0;
+    padding: 10px 0 130px 0;
 }
