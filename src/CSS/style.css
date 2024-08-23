@@ -11,7 +11,7 @@ main{
     flex-direction: column;
 }
 
-.footer{
+footer{
     flex-direction: column;
     color: #fff;
 }
