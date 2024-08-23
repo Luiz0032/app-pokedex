@@ -8,6 +8,12 @@ main{
     align-items: center;
     justify-content: center;
     background-color: rgb(44, 44, 44);
+    flex-direction: column;
+}
+
+.footer{
+    flex-direction: column;
+    color: #fff;
 }
 
 .pokedex{
