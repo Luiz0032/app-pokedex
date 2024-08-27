@@ -9,6 +9,7 @@
     
     .pokemon-card{
         max-width: 300px;
+        margin-left: 25px;
     }
 
     .pokemon-card .image-card{
