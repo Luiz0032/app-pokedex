@@ -2,7 +2,7 @@
     max-width: 250px;
     overflow-x: hidden;
     overflow-y: auto;
-    max-height: 720px;
+    max-height: 700px;
     padding: 25px;
     box-sizing:initial
 }
@@ -19,7 +19,6 @@
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
     min-height: 70px;
-    box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(255, 255, 255, 0.3) 0px 30px 60px -30px, rgba(255, 255, 255, 0.35) 0px -2px 6px 0px inset;
     transition: 0.15s ease-in-out;
 }
 
@@ -40,4 +39,5 @@
     background-color: #fa3236;
     scale: 1.1;
     border: #000000 solid 4px;
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 50px 100px -20px, rgba(255, 255, 255, 0.3) 0px 30px 60px -30px, rgba(255, 255, 255, 0.35) 0px -2px 6px 0px inset;
 }

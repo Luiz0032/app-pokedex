@@ -19,5 +19,5 @@ footer{
 .pokedex{
     display:  flex;
     gap: 30px;
-    padding: 10px 0 130px 0;
+    padding: 10px 0 100px 0;
 }
